@@ -22,3 +22,7 @@
 ![image](https://github.com/YunTing-Lee/Ticket-Vending-Machine/blob/main/Picture/ticket%20price.png)
 
 ## 程式運行結果
+### 文字輸出部分 : 
+![image](https://github.com/YunTing-Lee/Ticket-Vending-Machine/blob/main/Picture/result.PNG)
+### 波型圖 : 
+![image](https://github.com/YunTing-Lee/Ticket-Vending-Machine/blob/main/Picture/waveform.PNG)

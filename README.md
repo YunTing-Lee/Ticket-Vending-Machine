@@ -20,3 +20,5 @@
 - 當起站與終站相同時則為月台票
 - 票價 : 
 ![image](https://github.com/YunTing-Lee/Ticket-Vending-Machine/blob/main/Picture/ticket%20price.png)
+
+## 程式運行結果

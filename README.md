@@ -18,4 +18,5 @@
 - 車站為 S1, S2, S3, S4 , S5 共五站
 - 選站時必須選擇 起點站 與 終點站
 - 當起站與終站相同時則為月台票
+- 票價 : 
 ![image](https://github.com/YunTing-Lee/Ticket-Vending-Machine/blob/main/Picture/ticket%20price.png)
